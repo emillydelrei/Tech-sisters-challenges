@@ -4,10 +4,10 @@
 ### Número Positivo, Negativo ou Nulo
 
 ![Comunidade](https://img.shields.io/badge/comunidade-Tech_Sisters-7C3AED?style=flat-square)
-![Linguagem](https://img.shields.io/badge/linguagem-Java-4C1D95?style=flat-square&logo=openjdk&logoColor=white)
+![Linguagem](https://img.shields.io/badge/linguagem-Java-4C1D95?style=flat-square&logo=openjdk&logoColor=)
 ![Nível](https://img.shields.io/badge/nível-iniciante-A78BFA?style=flat-square)
 
-[Voltar ao repositório](desafios/README.md)
+[Voltar ao repositório]([Voltar ao repositório](Tech-sisters-challenges/README)
 
 </div>
 
