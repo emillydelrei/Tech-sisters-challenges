@@ -22,14 +22,14 @@ Este repositório reúne os desafios de programação que resolvi com a comunida
 
 ##👩‍💻 Desafios
 
-| #  | Desafio                  | Conceitos                                  | Solução                         |
-|:--:|--------------------------|--------------------------------------------|---------------------------------|
-| 01 | Verificação de numero    | `if-else` . entrada e saida de dados       | [Abrir desafio](desafios/Desafio1/README.md)             |
-| 02 | Informações do Usuário   | `Scanner` · `String` · saída formatada     | [Abrir](./desafio-02)           |
-| 03 | Meta de Passos           | `if / else` · operadores de comparação     | [Abrir](./desafio-03)           |
-| 04 | Compra Parcelada         | cálculos · `double` · formatação de valores| [Abrir](./desafio-04)           |
-| 05 | Consumo de Energia       | regras de cálculo · condicionais           | [Abrir](./desafio-05)           |
-| 06 | Validação de Senha Forte | `String` · validação de regras · `boolean` | [Abrir](./desafio-06)           |
+| #  | Desafio                  | Conceitos                                  | Solução                                      |
+|:--:|--------------------------|--------------------------------------------|----------------------------------------------|
+| 01 | Verificação de numero    | `if-else` . entrada e saida de dados       | [Abrir desafio](desafios/Desafio1/README.md) |
+| 02 | Informações do Usuário   | `Scanner` · `String` · saída formatada     | [Abrir desafio](desafios/Desafio2/README.md) |
+| 03 | Meta de Passos           | `if / else` · operadores de comparação     | [Abrir](./desafio-03)                        |
+| 04 | Compra Parcelada         | cálculos · `double` · formatação de valores| [Abrir](./desafio-04)                        |
+| 05 | Consumo de Energia       | regras de cálculo · condicionais           | [Abrir](./desafio-05)                        |
+| 06 | Validação de Senha Forte | `String` · validação de regras · `boolean` | [Abrir](./desafio-06)                        |
 
 
 <br>
