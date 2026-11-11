@@ -50,13 +50,6 @@ Ler um número digitado pelo usuário, comparar com zero e mostrar na tela se el
 ---
 
 
-## Como executar
-
-```bash
-javac Main.java
-java Main
-```
-
 ---
 
 <sub>Créditos do enunciado: comunidade Tech Sisters. A solução em código é de minha autoria.</sub>
