@@ -1,5 +1,31 @@
-out/
+# IntelliJ
 .idea/
 *.iml
-*.class
+*.ipr
+*.iws
+
+# Arquivos compilados
+out/
 target/
+build/
+.gradle/
+*.class
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Outras IDEs
+.vscode/
+.classpath
+.project
+.settings/
+
+# Segredos e configurações locais (nunca versionar)
+.env
+*.env
+application-local.properties
