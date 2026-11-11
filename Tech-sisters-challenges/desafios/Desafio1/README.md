@@ -7,7 +7,7 @@
 ![Linguagem](https://img.shields.io/badge/linguagem-Java-4C1D95?style=flat-square&logo=openjdk&logoColor=)
 ![Nível](https://img.shields.io/badge/nível-iniciante-A78BFA?style=flat-square)
 
-[Voltar ao repositório](Tech-sisters-challenges/README)
+[Volta ao repositorio](Tech-sisters-challenges/README.md)
 
 </div>
 
