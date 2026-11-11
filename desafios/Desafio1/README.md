@@ -1,86 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,50:6D28D9,100:A78BFA&height=190&section=header&text=Tech%20Sisters&fontSize=44&fontColor=ffffff&desc=Code%20Challenges&descSize=20&descAlignY=62" alt="Tech Sisters Code Challenges" />
+# Desafio #01
+### Número Positivo, Negativo ou Nulo
 
+![Comunidade](https://img.shields.io/badge/comunidade-Tech_Sisters-7C3AED?style=flat-square)
+![Linguagem](https://img.shields.io/badge/linguagem-Java-4C1D95?style=flat-square&logo=openjdk&logoColor=white)
+![Nível](https://img.shields.io/badge/nível-iniciante-A78BFA?style=flat-square)
 
-![Java](https://img.shields.io/badge/Java-4C1D95?style=for-the-badge&logo=openjdk&logoColor=white)
-![Desafios](https://img.shields.io/badge/desafios-6-6D28D9?style=for-the-badge)
-![Comunidade](https://img.shields.io/badge/comunidade-Tech_Sisters-8B5CF6?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-em_evolução-A78BFA?style=for-the-badge)
+[Voltar ao repositório](desafios/README.md)
 
 </div>
 
 ---
 
+## Enunciado
 
-## Sobre o projeto
+> Desafio proposto pela comunidade **Tech Sisters** (Desafio do Código).
 
-Este repositório reúne os desafios de programação que resolvi com a comunidade Tech Sisters. Cada solução é um exercício de lógica e de escrita de código limpo, e fica guardada aqui para eu acompanhar minha evolução.
+Crie um algoritmo ou função que solicite um número ao usuário e verifique se o valor é **positivo**, **negativo** ou **nulo** (zero).
 
-Sou **[SEU NOME]**, estudante de desenvolvimento de sistemas e em transição para a área de backend.
+O programa deve imprimir uma mensagem correspondente para cada caso.
 
-<br>
+**Critérios** 
 
-## Desafios
+1. Receber um valor numérico como entrada.
+2. Identificar se o número é maior que zero (positivo), menor que zero (negativo) ou igual a zero (nulo).
+3. Exibir uma mensagem clara informando a classificação do número digitado.
 
-| #  | Desafio                  | Conceitos                                  | Solução                         |
-|:--:|--------------------------|--------------------------------------------|---------------------------------|
-| 01 | [Tema do desafio 01]     | `a definir`                                | [Abrir](./desafio-01)           |
-| 02 | Informações do Usuário   | `Scanner` · `String` · saída formatada     | [Abrir](./desafio-02)           |
-| 03 | Meta de Passos           | `if / else` · operadores de comparação     | [Abrir](./desafio-03)           |
-| 04 | Compra Parcelada         | cálculos · `double` · formatação de valores| [Abrir](./desafio-04)           |
-| 05 | Consumo de Energia       | regras de cálculo · condicionais           | [Abrir](./desafio-05)           |
-| 06 | Validação de Senha Forte | `String` · validação de regras · `boolean` | [Abrir](./desafio-06)           |
+---
 
-<br>
+## Casos de teste
 
-## Estrutura do repositório
+| Entrada | Saída esperada                 |
+|:-------:|--------------------------------|
+| `15`    | `O número 15 é POSITIVO.`      |
+| `-8`    | `O número -8 é NEGATIVO.`      |
+| `0`     | `O número 0 é NULO.`           |
 
-```text
-.
-├── desafio-01/
-│   └── Main.java
-├── desafio-02/
-│   └── Main.java
-├── ...
-├── desafio-06/
-│   └── Main.java
-└── README.md
-```
+---
 
-<br>
+## Resumo
+
+Ler um número digitado pelo usuário, comparar com zero e mostrar na tela se ele é positivo, negativo ou nulo.
+
+**Conceitos praticados:** `Scanner` · `int` / `double` · `if / else if / else` · operadores de comparação · saída formatada
+
+---
+
 
 ## Como executar
 
-Pré-requisito: **JDK 17** ou superior.
-
 ```bash
-# clonar o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
-
-# compilar e executar um desafio (exemplo: desafio 06)
-cd desafio-06
 javac Main.java
 java Main
 ```
 
-<br>
-
-## Próximos passos
-
-- [ ] Refatorar as soluções aplicando orientação a objetos
-- [ ] Separar a lógica em métodos e classes menores
-- [ ] Adicionar testes automatizados com JUnit
-- [ ] Resolver os próximos desafios da comunidade
-
-<br>
-
 ---
 
-<div align="center">
-<sub>
-Os desafios são de autoria da comunidade Tech Sisters; as soluções em código são minhas.<br>
-Projeto pessoal de estudos, não é um repositório oficial da comunidade.
-</sub>
-</div>
+<sub>Créditos do enunciado: comunidade Tech Sisters. A solução em código é de minha autoria.</sub>
