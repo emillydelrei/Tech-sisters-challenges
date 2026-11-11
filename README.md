@@ -24,7 +24,7 @@ Este repositório reúne os desafios de programação que resolvi com a comunida
 
 | #  | Desafio                  | Conceitos                                  | Solução                         |
 |:--:|--------------------------|--------------------------------------------|---------------------------------|
-| 01 | Verificação de numero    | `if-else` . entrada e saida de dados       | [Abrir](./Desafio1)             |
+| 01 | Verificação de numero    | `if-else` . entrada e saida de dados       | [Abrir desafio](desafios/Desafio1/README.md)             |
 | 02 | Informações do Usuário   | `Scanner` · `String` · saída formatada     | [Abrir](./desafio-02)           |
 | 03 | Meta de Passos           | `if / else` · operadores de comparação     | [Abrir](./desafio-03)           |
 | 04 | Compra Parcelada         | cálculos · `double` · formatação de valores| [Abrir](./desafio-04)           |
