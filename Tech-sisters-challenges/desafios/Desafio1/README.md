@@ -10,9 +10,11 @@
 
 </div>
 
-[Voltar ao repositório](../../README.md)
----
+<p align="center">
+  <a href="../../README.md">Voltar ao repositório</a>
+</p>
 
+---
 ## Enunciado
 
 > Desafio proposto pela comunidade **Tech Sisters** (Desafio do Código).
