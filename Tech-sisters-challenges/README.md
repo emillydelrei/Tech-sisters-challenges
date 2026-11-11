@@ -32,24 +32,7 @@ Este repositório reúne os desafios de programação que resolvi com a comunida
 | 06 | Validação de Senha Forte | `String` · validação de regras · `boolean` | [Abrir](./desafio-06)                        |
 
 
-<br>
 
-## Como executar
-
-Pré-requisito: **JDK 17** ou superior.
-
-```bash
-# clonar o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
-
-# compilar e executar um desafio (exemplo: desafio 06)
-cd desafio-06
-javac Main.java
-java Main
-```
-
-<br>
 
 
 ---
