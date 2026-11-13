@@ -10,15 +10,11 @@ public class InformacaoUsuarios {
      System.out.print("Digite seu nome: ");
      String nome=scanner.nextLine();
 
-     System.out.print("qual sua idade? ");
-     int idade=scanner.nextInt();
-     while (idade<=0) {
-         System.out.println("Ops, essa não é uma idade valida");
-     idade=scanner.nextInt();}
+     int idade=validacao.validaSafe(scanner,"Digite dua idade: ");
 
-     System.out.print("qual sua altura? ");
-     double altura=scanner.nextDouble();
-     scanner.nextLine();
+
+     double altura=validacao.validaaltura(scanner,"Digite sua altura: ");
+
 
      System.out.print("Digite sua cidade: ");
      String cidade=scanner.nextLine();
